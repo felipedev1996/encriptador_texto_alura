@@ -1,7 +1,7 @@
-#Encriptador de texto 
+## Encriptador de texto 
 
 
-usando vanilla javascript , html, css
+Con vanilla javascript , html, css
 
 
 
